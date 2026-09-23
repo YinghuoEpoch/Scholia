@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.yinghuoepoch.wordshelf',
+  appId: 'com.yinghuoepoch.scholia',
   appName: '我的文库',
   webDir: 'dist',
   plugins: {

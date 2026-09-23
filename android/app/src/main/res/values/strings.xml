@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">WordShelf</string>
-    <string name="title_activity_main">WordShelf</string>
-    <string name="package_name">com.yinghuoepoch.wordshelf</string>
-    <string name="custom_url_scheme">com.yinghuoepoch.wordshelf</string>
+    <string name="app_name">Scholia</string>
+    <string name="title_activity_main">Scholia</string>
+    <string name="package_name">com.yinghuoepoch.scholia</string>
+    <string name="custom_url_scheme">com.yinghuoepoch.scholia</string>
 </resources>

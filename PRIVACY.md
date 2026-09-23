@@ -1,6 +1,6 @@
 # Privacy Policy / 隐私政策
 
-**WordShelf（我的文库）** — Last updated: 2026-09-15
+**Scholia（我的文库）** — Last updated: 2026-09-15
 
 [English](#english) · [中文](#中文)
 
@@ -8,7 +8,7 @@
 
 ## English
 
-WordShelf is a personal English reading and vocabulary tool developed by an independent developer (YinghuoEpoch / 荧惑纪). This policy explains what the app stores, what it sends over the network, and to whom.
+Scholia is a personal English reading and vocabulary tool developed by an independent developer (YinghuoEpoch / 荧惑纪). This policy explains what the app stores, what it sends over the network, and to whom.
 
 ### The short version
 
@@ -68,7 +68,7 @@ qq3224018399@gmail.com
 
 ## 中文
 
-**WordShelf（我的文库）** 是由独立开发者（荧惑纪 / YinghuoEpoch）开发的个人英文阅读与背单词工具。本政策说明本应用存储什么、向何处发送什么。
+**Scholia（我的文库）** 是由独立开发者（荧惑纪 / YinghuoEpoch）开发的个人英文阅读与背单词工具。本政策说明本应用存储什么、向何处发送什么。
 
 ### 一句话版本
 

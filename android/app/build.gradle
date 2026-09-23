@@ -9,10 +9,10 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.yinghuoepoch.wordshelf"
+    namespace = "com.yinghuoepoch.scholia"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.yinghuoepoch.wordshelf"
+        applicationId "com.yinghuoepoch.scholia"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         // 每次往 Google Play 传新包，versionCode 必须 +1；versionName 是给人看的
