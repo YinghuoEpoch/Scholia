@@ -1,11 +1,11 @@
-# 我的文库 · WordShelf
+# 我的文库 · Scholia
 
 **在你真正想读的英文里背单词。**
 
 一个英文精读与复习工具。导入一本书或一段文本，长按取词做笔记，笔记自动汇成复习卡片。
 安卓 App，Capacitor 打包。
 
-**[→ 在 Google Play 购买](https://play.google.com/store/apps/details?id=com.yinghuoepoch.wordshelf)**（上架中，链接待商店审核通过后生效）
+**[→ 在 Google Play 购买](https://play.google.com/store/apps/details?id=com.yinghuoepoch.scholia)**（上架中，链接待商店审核通过后生效）
 
 > 本仓库只放源码，**不提供安装包**。想用现成的，去 Google Play；想自己编，见下面「开发」。
 
@@ -79,7 +79,7 @@
 
 ## 安装
 
-[Google Play](https://play.google.com/store/apps/details?id=com.yinghuoepoch.wordshelf)，付费买断，自动更新。需要 Android 7.0 以上。
+[Google Play](https://play.google.com/store/apps/details?id=com.yinghuoepoch.scholia)，付费买断，自动更新。需要 Android 7.0 以上。
 本仓库不提供安装包；源码在这儿，自己编也行（见「开发」）。
 
 首次启动会有一份用户协议。AI 辅助和云端朗读要自备 Key，在设置里填 ——

@@ -1,4 +1,4 @@
-package com.yinghuoepoch.wordshelf;
+package com.yinghuoepoch.scholia;
 
 import android.os.Build;
 import android.provider.Settings;
